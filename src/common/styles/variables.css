@@ -1,3 +1,6 @@
 :root{
     --white: #fff;
+    --header-shadow: rgb(0 0 0 / 8%) 0px 2px 12px;
+    --header-text: #0f1938;
+    --button-green: #00d290;
 }
