@@ -3,4 +3,8 @@
     --header-shadow: rgb(0 0 0 / 8%) 0px 2px 12px;
     --header-text: #0f1938;
     --button-green: #00d290;
+    --light-green: #f7fdfa;
+    --dark-blue-bg-gradient: linear-gradient(90.05deg,rgb(9,17,37) -2.5%,rgb(33,61,133) 100.83%);
+    --white-transparent:#ffffff3d;
+    --green:#00b37a;
 }
