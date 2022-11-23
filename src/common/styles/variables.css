@@ -7,4 +7,7 @@
     --dark-blue-bg-gradient: linear-gradient(90.05deg,rgb(9,17,37) -2.5%,rgb(33,61,133) 100.83%);
     --white-transparent:#ffffff3d;
     --green:#00b37a;
+    --text-light:#171e30;
+    --text-gray:#6f7588;
+    --card-shadow: rgb(0 0 0 / 6%) 0px 4px 7px;
 }
