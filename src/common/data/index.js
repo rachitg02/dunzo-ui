@@ -34,4 +34,23 @@ export const ITEM_TYPES =[
         title:'Paan Shop',
     },
 
+];
+
+export const TOP_PICKS =[
+    {
+        id:1,
+        banner:'https://ik.imagekit.io/dunzo/web-assets/images/d4b.jpg?tr=w-488,h-326,cm-pad_resize',
+    },
+    {
+        id:2,
+        banner:'https://ik.imagekit.io/dunzo/web-assets/images/grocery.jpg?tr=w-488,h-326,cm-pad_resize',
+    },
+    {
+        id:3,
+        banner:'https://ik.imagekit.io/dunzo/web-assets/images/restaurants.jpg?tr=w-488,h-326,cm-pad_resize',
+    },
+    {
+        id:4,
+        banner:'https://ik.imagekit.io/dunzo/web-assets/images/send-packages.jpg?tr=w-488,h-326,cm-pad_resize',
+    },
 ]
